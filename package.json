@@ -16,7 +16,7 @@
     }
   },
   "bin": {
-    "pepkio-instant-restriction-mapper": "./dist/cli.js"
+    "pepkio-instant-restriction-mapper": "dist/cli.js"
   },
   "files": [
     "dist",
